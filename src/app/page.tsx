@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import { useState } from 'react'
 
-import qq from '../../public/asli.jpg'
+import qq from '../../public/qq.jpg'
 
 
 
